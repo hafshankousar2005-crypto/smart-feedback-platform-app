@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-04-19 17:28:48",
+  "total_records": 200,
+  "kpi_summary": {
+    "Total Feedback": 200,
+    "Average Rating": 3.78,
+    "Positive Rate": "66.5%",
+    "Negative Rate": "20.0%",
+    "Return Rate": "3.0%",
+    "Resolution Rate": "86.0%",
+    "Avg Response Time": "289 mins",
+    "Avg Order Value": "$331.55"
+  },
+  "top_insights": [
+    " Best performing category: Returns",
+    " Needs improvement: Delivery",
+    " Best channel: Website",
+    " Worst channel: In-Store",
+    " Response time too high (289 mins)"
+  ],
+  "key_recommendations": [
+    "Priority 1: Improve Customer Service",
+    "Priority 2: Address Delivery issues",
+    "Review quality of: Laptop Pro, LED Lamp",
+    "Implement customer feedback loop",
+    "Monitor sentiment trends weekly"
+  ]
+}
